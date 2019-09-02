@@ -12,11 +12,3 @@ body{
     background-color:green;
     padding:100px;
 }
-#marquee1 {
-	overflow-x: marquee-line;
-	marquee-style: scroll;
-}
-#marquee2 {
-	overflow-x: marquee-line;
-	marquee-style: alternate;
-}
